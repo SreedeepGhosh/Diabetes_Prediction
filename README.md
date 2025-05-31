@@ -36,7 +36,8 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`</code></pre>
 </ol>
 
 <h2>🖼️ Screenshot</h2>
-<p><img src="screenshot.png" alt="Home Page Screenshots"></p>
+<p><img src="Screenshot.jpg" alt="App Screenshots"></p>
+<p><img src="Screenshot2.jpg" alt="App Screenshots"></p>
 
 <h2>🛠️ Tech Stack</h2>
 <ul>
