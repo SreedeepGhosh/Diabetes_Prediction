@@ -20,8 +20,8 @@
 <h2>📦 Installation</h2>
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/yourusername/diabetes-prediction-app.git
-cd diabetes-prediction-app</code></pre>
+    <pre><code>git clone https://github.com/SreedeepGhosh/Diabetes_Prediction.git
+cd Diabetes_Prediction</code></pre>
   </li>
   <li>Create a virtual environment (optional but recommended):
     <pre><code>python -m venv venv
