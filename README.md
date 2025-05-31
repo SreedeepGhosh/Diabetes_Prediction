@@ -59,7 +59,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`</code></pre>
 <p><a href="LICENSE">MIT License</a></p>
 
 <h2>👤 Author</h2>
-<p>Your Name – <a href="https://github.com/SreedeepGhosh">Sreedeep Ghosh</a></p>
+<p><a href="https://github.com/SreedeepGhosh">Sreedeep Ghosh</a></p>
 
 <hr>
 <p><em>Disclaimer: This app is a fun project for educational/demo purposes and strictly not intended for medical diagnosis.</em></p>
